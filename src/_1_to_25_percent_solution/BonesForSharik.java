@@ -1,6 +1,6 @@
-package In_stage_of_resolution;
+package _1_to_25_percent_solution;
 /*
-Косточки для Шарика ___%
+Косточки для Шарика 7%
 https://www.e-olymp.com/uk/problems/637
 */
 import java.util.Scanner;

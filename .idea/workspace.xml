@@ -6,9 +6,7 @@
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/Balloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/Repair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/Transformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_to_25_percent_solution/BonesForSharik.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/vcs.xml" afterDir="false" />
@@ -213,10 +211,7 @@
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Variables/CallVariable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Variables/Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/In_stage_of_resolution/SumOfSquares.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/In_stage_of_resolution/Balloons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/In_stage_of_resolution/Repair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_100_percent_solution/Cakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100_percent_solution/Cakes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/In_stage_of_resolution/Balloons.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -229,51 +224,50 @@
     <session id="1599680506">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="131" />
+          <entry key="java" value="132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="131" />
+          <entry key="JAVA" value="132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5070" />
+          <entry key="dummy" value="1" />
+          <entry key="java" value="5642" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5070" />
+          <entry key="JAVA" value="5642" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Balloons.java">
+        <entry file="file://$PROJECT_DIR$/src/_1_to_25_percent_solution/BonesForSharik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -338,6 +332,8 @@
         <option value="$PROJECT_DIR$/src/_100_percent_solution/Cakes.java" />
         <option value="$PROJECT_DIR$/src/In_stage_of_resolution/Balloons.java" />
         <option value="$PROJECT_DIR$/src/_100_percent_solution/Balloons.java" />
+        <option value="$PROJECT_DIR$/src/In_stage_of_resolution/BonesForSharik.java" />
+        <option value="$PROJECT_DIR$/src/_1_to_25_percent_solution/BonesForSharik.java" />
       </list>
     </option>
   </component>
@@ -355,8 +351,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,6 +365,12 @@
               <item name="EOlympMySolution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="EOlympMySolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EOlympMySolution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="In_stage_of_resolution" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -376,7 +378,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539133580413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539208032538" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
@@ -401,13 +403,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Balloons">
+  <component name="RunManager" selected="Application.BonesForSharik">
     <configuration name="Balloons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_100_percent_solution.Balloons" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_100_percent_solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonesForSharik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1_to_25_percent_solution.BonesForSharik" />
+      <module name="EOlympMySolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1_to_25_percent_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,33 +469,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Yo_Yo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_76_to_99_percent_solution.Yo_Yo" />
-      <module name="EOlympMySolution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_76_to_99_percent_solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Yo_Yo" />
       <item itemvalue="Application.SumOfSquares" />
       <item itemvalue="Application.Repair" />
       <item itemvalue="Application.Transformation" />
       <item itemvalue="Application.Balloons" />
+      <item itemvalue="Application.BonesForSharik" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BonesForSharik" />
         <item itemvalue="Application.Balloons" />
         <item itemvalue="Application.Transformation" />
         <item itemvalue="Application.Repair" />
         <item itemvalue="Application.SumOfSquares" />
-        <item itemvalue="Application.Yo_Yo" />
       </list>
     </recent_temporary>
   </component>
@@ -500,7 +502,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21028744" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21331316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -509,7 +511,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4101307" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4362745" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -593,10 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
           <caret line="442" column="25" selection-start-line="442" selection-start-column="25" selection-end-line="442" selection-end-column="25" />
-          <folding>
-            <element signature="e#17080#17081#0" expanded="true" />
-            <element signature="e#17162#17163#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,10 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,6 +668,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1_to_25_percent_solution/BonesForSharik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
