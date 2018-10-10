@@ -1,7 +1,7 @@
-package In_stage_of_resolution;
+package _100_percent_solution;
 /*
 Перетворенння 100%
-
+https://www.e-olymp.com/uk/problems/388
 */
 import java.util.Scanner;
 

@@ -6,16 +6,9 @@
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/In_stage_of_resolution/Empty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/In_stage_of_resolution/MinimalSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/PumpkinPorridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/Squares_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/SumOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_26_to_50_percent_solution/MilkAndCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_51_to_75_percent_solution/SumOfSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/Yo_Yo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/YoungGardener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/Balloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/Repair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100_percent_solution/Transformation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/vcs.xml" afterDir="false" />
@@ -219,8 +212,11 @@
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Sorting/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Variables/CallVariable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Variables/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/In_stage_of_resolution/Repair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/In_stage_of_resolution/Repair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/In_stage_of_resolution/SumOfSquares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/In_stage_of_resolution/Balloons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/In_stage_of_resolution/Repair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_100_percent_solution/Cakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100_percent_solution/Cakes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -233,7 +229,7 @@
     <session id="1599680506">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="4" />
@@ -246,23 +242,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="117" />
+          <entry key="java" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="117" />
+          <entry key="JAVA" value="131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4021" />
+          <entry key="java" value="5070" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4021" />
+          <entry key="JAVA" value="5070" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -271,10 +267,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/In_stage_of_resolution/Repair.java">
+        <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Balloons.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -308,7 +307,6 @@
         <option value="$PROJECT_DIR$/src/HelloWorld/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/Cakes/Main.java" />
         <option value="$PROJECT_DIR$/src/Cakes/Cakes.java" />
-        <option value="$PROJECT_DIR$/src/_100_percent_solution/Cakes.java" />
         <option value="$PROJECT_DIR$/src/_1_to_25_percent_solution/Empty.java" />
         <option value="$PROJECT_DIR$/src/MilkAndCake/Main.java" />
         <option value="$PROJECT_DIR$/src/MilkAndCake/MilkAndCake.java" />
@@ -335,6 +333,11 @@
         <option value="$PROJECT_DIR$/src/In_stage_of_resolution/SumOfSquares.java" />
         <option value="$PROJECT_DIR$/src/_51_to_75_percent_solution/SumOfSquares.java" />
         <option value="$PROJECT_DIR$/src/In_stage_of_resolution/Repair.java" />
+        <option value="$PROJECT_DIR$/src/_100_percent_solution/Repair.java" />
+        <option value="$PROJECT_DIR$/src/In_stage_of_resolution/Transformation.java" />
+        <option value="$PROJECT_DIR$/src/_100_percent_solution/Cakes.java" />
+        <option value="$PROJECT_DIR$/src/In_stage_of_resolution/Balloons.java" />
+        <option value="$PROJECT_DIR$/src/_100_percent_solution/Balloons.java" />
       </list>
     </option>
   </component>
@@ -366,18 +369,6 @@
               <item name="EOlympMySolution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="EOlympMySolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EOlympMySolution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_100_percent_solution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EOlympMySolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EOlympMySolution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="In_stage_of_resolution" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -385,7 +376,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539122038227" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539133580413" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
@@ -410,13 +401,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOfSquares">
-    <configuration name="MilkAndCake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_26_to_50_percent_solution.MilkAndCake" />
+  <component name="RunManager" selected="Application.Balloons">
+    <configuration name="Balloons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100_percent_solution.Balloons" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_26_to_50_percent_solution.*" />
+          <option name="PATTERN" value="_100_percent_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -424,8 +415,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Squares_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100_percent_solution.Squares_2" />
+    <configuration name="Repair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100_percent_solution.Repair" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
@@ -450,8 +441,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100_percent_solution.SumOfTwo" />
+    <configuration name="Transformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100_percent_solution.Transformation" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
@@ -477,19 +468,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SumOfTwo" />
-      <item itemvalue="Application.Squares_2" />
       <item itemvalue="Application.Yo_Yo" />
-      <item itemvalue="Application.MilkAndCake" />
       <item itemvalue="Application.SumOfSquares" />
+      <item itemvalue="Application.Repair" />
+      <item itemvalue="Application.Transformation" />
+      <item itemvalue="Application.Balloons" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Balloons" />
+        <item itemvalue="Application.Transformation" />
+        <item itemvalue="Application.Repair" />
         <item itemvalue="Application.SumOfSquares" />
         <item itemvalue="Application.Yo_Yo" />
-        <item itemvalue="Application.MilkAndCake" />
-        <item itemvalue="Application.Squares_2" />
-        <item itemvalue="Application.SumOfTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -524,7 +515,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -553,62 +544,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/In_stage_of_resolution/Empty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EOlympMySolution.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/In_stage_of_resolution/MinimalSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/In_stage_of_resolution/Balloons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Cakes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Squares_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_26_to_50_percent_solution/MilkAndCake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/PumpkinPorridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -623,13 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/SumOfTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="15" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -654,10 +589,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/In_stage_of_resolution/Repair.java">
+    <entry file="jar://D:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="442" column="25" selection-start-line="442" selection-start-column="25" selection-end-line="442" selection-end-column="25" />
+          <folding>
+            <element signature="e#17080#17081#0" expanded="true" />
+            <element signature="e#17162#17163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Transformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Squares_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Repair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/PumpkinPorridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Cakes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/SumOfTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/In_stage_of_resolution/Empty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/In_stage_of_resolution/MinimalSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100_percent_solution/Balloons.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

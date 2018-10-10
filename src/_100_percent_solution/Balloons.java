@@ -1,6 +1,6 @@
-package In_stage_of_resolution;
+package _100_percent_solution;
 /*
-Кульки ___%
+Кульки 100%
 https://www.e-olymp.com/uk/problems/113
 */
 import java.util.Arrays;

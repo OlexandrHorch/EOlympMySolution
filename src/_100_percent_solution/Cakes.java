@@ -1,6 +1,6 @@
 package _100_percent_solution;
 /*
-Пиріжки +100%
+Пиріжки 100%
 https://www.e-olymp.com/uk/problems/7336
 */
 import java.util.Scanner;
