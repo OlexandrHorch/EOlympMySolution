@@ -1,4 +1,4 @@
-package In_stage_of_resolution;
+package in_stage_of_resolution;
 
 public class Empty {
 }

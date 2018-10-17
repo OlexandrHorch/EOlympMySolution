@@ -1,6 +1,6 @@
-package in_stage_of_resolution;
+package _100_percent_solution;
 /*
-Різниця в зарплаті ___%
+Різниця в зарплаті 100%
 https://www.e-olymp.com/uk/problems/362
 */
 import java.util.Locale;

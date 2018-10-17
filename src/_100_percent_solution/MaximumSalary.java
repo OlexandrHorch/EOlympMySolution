@@ -1,6 +1,6 @@
-package in_stage_of_resolution;
+package _100_percent_solution;
 /*
-Максимальна зарплата ___%
+Максимальна зарплата 100%
 https://www.e-olymp.com/uk/problems/357
 */
 import java.util.Locale;
@@ -20,7 +20,6 @@ public class MaximumSalary {
         }
 
         float maxSalary = salaryArray[0];
-
         for (int i = 1; i < salaryArray.length; i++) {
             if (maxSalary < salaryArray[i]) {
                 maxSalary = salaryArray[i];

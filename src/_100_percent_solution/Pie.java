@@ -1,6 +1,6 @@
-package in_stage_of_resolution;
+package _100_percent_solution;
 /*
-Торт ___%
+Торт 100%
 https://www.e-olymp.com/uk/problems/774
 */
 import java.util.Scanner;

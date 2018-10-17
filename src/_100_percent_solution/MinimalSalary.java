@@ -1,6 +1,6 @@
-package in_stage_of_resolution;
+package _100_percent_solution;
 /*
-Мінімальна зарплата ___%
+Мінімальна зарплата 100%
 https://www.e-olymp.com/uk/problems/352
 */
 import java.util.Locale;
@@ -20,7 +20,6 @@ public class MinimalSalary {
         }
 
         float minSalary = salaryArray[0];
-
         for (int i = 1; i < salaryArray.length; i++) {
             if (minSalary > salaryArray[i]) {
                 minSalary = salaryArray[i];

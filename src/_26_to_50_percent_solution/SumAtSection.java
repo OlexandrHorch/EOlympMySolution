@@ -1,9 +1,8 @@
-package In_stage_of_resolution;
+package _26_to_50_percent_solution;
 /*
 Сума на відрізку 43%
 https://www.e-olymp.com/uk/problems/682
 */
-
 import java.util.Scanner;
 
 public class SumAtSection {

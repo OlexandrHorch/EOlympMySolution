@@ -1,9 +1,8 @@
-package In_stage_of_resolution;
+package _76_to_99_percent_solution;
 /*
 Трикутник 80%
 https://www.e-olymp.com/uk/problems/653
 */
-
 import java.util.Scanner;
 
 public class Triangle {
