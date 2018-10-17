@@ -10,7 +10,7 @@ public class SumOfSquares {
         Scanner input = new Scanner(System.in);
         int a = Integer.parseInt(input.next());
         int b = Integer.parseInt(input.next());
-        int sumOfSquares = (int) (Math.pow(a, 2) + Math.pow(b, 2));
+        double sumOfSquares = Math.pow(a, 2) + Math.pow(b, 2);
         System.out.println(sumOfSquares);
     }
 }

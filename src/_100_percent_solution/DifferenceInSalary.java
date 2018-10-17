@@ -14,7 +14,6 @@ public class DifferenceInSalary {
         String[] strSalaryArray = salary.split("[ ]");
 
         float[] salaryArray = new float[strSalaryArray.length];
-
         for (int i = 0; i < strSalaryArray.length; i++) {
             salaryArray[i] = Float.parseFloat(strSalaryArray[i]);
         }
