@@ -1,4 +1,4 @@
-package in_stage_of_resolution;
+package _100_percent_solution;
 /*
 Поле-чудес 100%
 https://www.e-olymp.com/uk/problems/7340
