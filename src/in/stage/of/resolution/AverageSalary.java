@@ -1,4 +1,4 @@
-package in_stage_of_resolution;
+package in.stage.of.resolution;
 /*
 Середня зарплата ___%
 https://www.e-olymp.com/uk/problems/568

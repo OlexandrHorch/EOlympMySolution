@@ -1,4 +1,4 @@
-package _51_to_75_percent_solution;
+package _51_to_75_percent.solution;
 /*
 Скільки до Нового Року? 58%
 https://www.e-olymp.com/uk/problems/7366

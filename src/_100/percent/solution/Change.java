@@ -1,9 +1,8 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
-Обмін ___%
+Обмін 100%
 https://www.e-olymp.com/uk/problems/407
 */
-
 import java.util.Scanner;
 
 public class Change {

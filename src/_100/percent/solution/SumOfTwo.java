@@ -1,4 +1,4 @@
-package _100_percent_solution;
+package _100.percent.solution;
 /*
 Сума двох 100%
 https://www.e-olymp.com/uk/problems/518

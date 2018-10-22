@@ -1,4 +1,4 @@
-package in.stage.of.resolution;
+package _76_to_99_percent_solution;
 /*
 Прогрес в артилерії починається 95%
 https://www.e-olymp.com/uk/problems/358

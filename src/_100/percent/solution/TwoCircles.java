@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
-Два кола ___%
+Два кола 100%
 https://www.e-olymp.com/uk/problems/4
 */
 import java.util.Scanner;
