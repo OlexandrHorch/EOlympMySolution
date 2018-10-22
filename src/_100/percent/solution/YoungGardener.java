@@ -1,6 +1,6 @@
-package _76_to_99_percent_solution;
+package _100.percent.solution;
 /*
-Юний садівник +94%
+Юний садівник 100%
 https://www.e-olymp.com/uk/problems/248
 */
 import java.util.Scanner;
@@ -10,10 +10,10 @@ public class YoungGardener {
         Scanner scanner = new Scanner(System.in);
 
         int numberTiers = scanner.nextInt();
-        int leafsAtNextTier = 2;
-        int liters = 3;
+        int leafsAtNextTier = 0;
+        int liters = 1;
 
-        for (int n = numberTiers; n > 1; n--) {
+        for (int n = numberTiers; n > 0; n--) {
             leafsAtNextTier += 2;
             liters += leafsAtNextTier;
         }
