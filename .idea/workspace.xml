@@ -6,6 +6,12 @@
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/ArithmeticAverageFromPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/EnlargeDy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/FirstOrLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/LevelEducationalAchievements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/NumberOfOperations.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/vcs.xml" afterDir="false" />
@@ -28,24 +34,12 @@
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/GoJavaModule5HomeWork5(1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/src/Task1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/GoJavaModule5HomeWork5(2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/Player1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/Player2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/Player3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/Player4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/Player5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/Player6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/PlayersSettingsPlayAllSongs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/PlayersSettingsPlaylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/PlayersSettingsPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/src/Task1/PlayersSettingsSong.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/.idea/vcs.xml" afterDir="false" />
@@ -196,6 +190,13 @@
       <change afterPath="$PROJECT_DIR$/../../TEST/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/AnimalsTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/dogs.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/uiDesigner.xml" afterDir="false" />
@@ -206,8 +207,6 @@
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Arrays/Array2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Arrays/ArrayInReverseDirection.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Arrays/ChangeValueInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Break_Continue/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Break_Continue/Сontinue.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Loops/For.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Loops/ForEach.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Methods/Method.java" afterDir="false" />
@@ -218,9 +217,8 @@
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Variables/CallVariable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TEST/Theory/src/Variables/Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_76_to_99_percent_solution/YoungGardener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EOlympMySolution/_76_to_99_percent_solution/YoungGardener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/in/stage/of/resolution/Preparation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_76_to_99_percent_solution/YoungGardener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/YoungGardener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_76_to_99_percent_solution/YoungGardener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/PumpkinPorridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/PumpkinPorridge.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -233,42 +231,42 @@
     <session id="1599680506">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.2" value="7" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.3" value="8" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="182" />
+          <entry key="java" value="207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="182" />
+          <entry key="JAVA" value="207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="3" />
-          <entry key="java" value="11771" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="13699" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11771" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JAVA" value="13699" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -290,17 +288,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MushroomPickers/Main.java" />
-        <option value="$PROJECT_DIR$/src/MushroomPickers/MushroomPickers.java" />
-        <option value="$PROJECT_DIR$/src/_1_to_25_percent_solution/MushroomPickers.java" />
-        <option value="$PROJECT_DIR$/src/ToNewYear/Main.java" />
-        <option value="$PROJECT_DIR$/src/ToNewYear/ToNewYear.java" />
-        <option value="$PROJECT_DIR$/src/_51_to_75_percent_solution/ToNewYear.java" />
-        <option value="$PROJECT_DIR$/src/YoungGardener/Main.java" />
-        <option value="$PROJECT_DIR$/src/YoungGardener/YoungGardener.java" />
-        <option value="$PROJECT_DIR$/src/In_stage_of_resolution/MinimalSalary.java" />
-        <option value="$PROJECT_DIR$/src/In_stage_of_resolution/SumOfTwo.java" />
-        <option value="$PROJECT_DIR$/src/_100_percent_solution/SumOfTwo.java" />
         <option value="$PROJECT_DIR$/src/_100_percent_solution/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/In_stage_of_resolution/Squares_2.java" />
         <option value="$PROJECT_DIR$/src/_100_percent_solution/Squares_2.java" />
@@ -341,6 +328,17 @@
         <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Preparation.java" />
         <option value="$PROJECT_DIR$/src/_76_to_99_percent_solution/YoungGardener.java" />
         <option value="$PROJECT_DIR$/src/_100/percent/solution/YoungGardener.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/EnlargeDy2.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/EnlargeDy2.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/LevelEducationalAchievements.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/LevelEducationalAchievements.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/PumpkinPorridge.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/FirstOrLast.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/NumberOfOperations.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ArithmeticAvarageFromPositive.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ArithmeticAverageFromPositive.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/ArithmeticAverageFromPositive.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/NumbersOfWords.java" />
       </list>
     </option>
   </component>
@@ -358,7 +356,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -381,11 +379,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540215116138" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540475022759" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
@@ -410,9 +408,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.YoungGardener">
-    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.Change" />
+  <component name="RunManager" selected="Application.NumbersOfWords">
+    <configuration name="ArithmeticAverageFromPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.ArithmeticAverageFromPositive" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
@@ -424,8 +422,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Preparation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.Preparation" />
+    <configuration name="FirstOrLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.FirstOrLast" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
@@ -437,21 +435,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareOfPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_51_to_75_percent.solution.SquareOfPolygon" />
-      <module name="EOlympMySolution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_51_to_75_percent.solution.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoCircles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.TwoCircles" />
+    <configuration name="LevelEducationalAchievements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.LevelEducationalAchievements" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
@@ -463,12 +448,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YoungGardener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.YoungGardener" />
+    <configuration name="NumberOfOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.stage.of.resolution.NumberOfOperations" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_100.percent.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumbersOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_76_to_99_percent_solution.NumbersOfWords" />
+      <module name="EOlympMySolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_76_to_99_percent_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -477,19 +475,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Change" />
-      <item itemvalue="Application.TwoCircles" />
-      <item itemvalue="Application.SquareOfPolygon" />
-      <item itemvalue="Application.Preparation" />
-      <item itemvalue="Application.YoungGardener" />
+      <item itemvalue="Application.LevelEducationalAchievements" />
+      <item itemvalue="Application.FirstOrLast" />
+      <item itemvalue="Application.NumberOfOperations" />
+      <item itemvalue="Application.ArithmeticAverageFromPositive" />
+      <item itemvalue="Application.NumbersOfWords" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.YoungGardener" />
-        <item itemvalue="Application.Preparation" />
-        <item itemvalue="Application.SquareOfPolygon" />
-        <item itemvalue="Application.TwoCircles" />
-        <item itemvalue="Application.Change" />
+        <item itemvalue="Application.NumbersOfWords" />
+        <item itemvalue="Application.ArithmeticAverageFromPositive" />
+        <item itemvalue="Application.NumberOfOperations" />
+        <item itemvalue="Application.FirstOrLast" />
+        <item itemvalue="Application.LevelEducationalAchievements" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +507,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17473525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -577,27 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Squares_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Repair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/PumpkinPorridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Cakes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -609,13 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SumOfTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -668,13 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/FieldOfWonders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/MinimalSalary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -696,24 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Transformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SumSquaresNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/MaximumSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -731,31 +680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/ProgressInArtilleryBegins.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/TwoCircles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -766,17 +694,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/TwoCircles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Preparation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/YoungGardener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/EnlargeDy2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/LevelEducationalAchievements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Transformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Repair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/PumpkinPorridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/MaximumSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Squares_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/FieldOfWonders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SumOfTwo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/FirstOrLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/ArithmeticAverageFromPositive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/NumberOfOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />

@@ -1,4 +1,4 @@
-package in.stage.of.resolution;
+package _76_to_99_percent_solution;
 /*
  * Кількість слів 83%
  * https://www.e-olymp.com/uk/problems/909
@@ -17,4 +17,5 @@ public class NumbersOfWords {
     }
 }
 
-// Hello world! = 2
+// "Hello world!"           з 1-м пропуском між словами     - результат 2 (вірно)
+// "Hello     world!"       з 5-ма пропусками між словами   - результат 6 (помилка)

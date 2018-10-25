@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Рівень навчальних досягнень ___%
+ * Рівень навчальних досягнень 100%
  * https://www.e-olymp.com/uk/problems/902
  */
 import java.util.Scanner;

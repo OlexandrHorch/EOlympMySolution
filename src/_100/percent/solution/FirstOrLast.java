@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Перша чи остання? ___%
+ * Перша чи остання? 100%
  * https://www.e-olymp.com/uk/problems/903
  */
 import java.util.Scanner;
