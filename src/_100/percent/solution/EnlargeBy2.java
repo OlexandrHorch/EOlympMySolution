@@ -5,7 +5,7 @@ package _100.percent.solution;
  */
 import java.util.Scanner;
 
-public class EnlargeDy2 {
+public class EnlargeBy2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

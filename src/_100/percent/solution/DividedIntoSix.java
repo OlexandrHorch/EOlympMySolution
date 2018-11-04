@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Ті, що діляться на 6 ___%
+ * Ті, що діляться на 6 100%
  * https://www.e-olymp.com/uk/problems/908
  */
 

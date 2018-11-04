@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _1_to_25_percent_solution;
 /*
- * Ліцензійне ПЗ ___%
+ * Ліцензійне ПЗ 14%
  * https://www.e-olymp.com/uk/problems/255
  */
 

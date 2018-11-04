@@ -1,4 +1,4 @@
-package in.stage.of.resolution;
+package _26_to_50_percent_solution;
 /*
  * Перший не більший за 2,5 30%
  * https://www.e-olymp.com/uk/problems/907

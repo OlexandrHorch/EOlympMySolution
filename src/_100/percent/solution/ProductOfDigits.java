@@ -1,4 +1,4 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
 * Добуток цифр 100%
 * https://www.e-olymp.com/uk/problems/906

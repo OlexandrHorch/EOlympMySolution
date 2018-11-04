@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Номер на 3 ___%
+ * Номер на 3 100%
  * https://www.e-olymp.com/uk/problems/919
  */
 

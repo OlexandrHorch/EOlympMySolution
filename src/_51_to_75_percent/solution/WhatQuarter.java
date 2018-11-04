@@ -1,4 +1,4 @@
-package in.stage.of.resolution;
+package _51_to_75_percent.solution;
 /*
  * Яка чверть? 56%
  * https://www.e-olymp.com/uk/problems/918
