@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Сума найбільшого та найменшого ___%
+ * Сума найбільшого та найменшого 100%
  * https://www.e-olymp.com/uk/problems/928
  */
 

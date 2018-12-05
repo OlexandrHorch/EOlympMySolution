@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Зсунь елементи праворуч ___%
+ * Зсунь елементи праворуч 100%
  * https://www.e-olymp.com/uk/problems/922
  */
 

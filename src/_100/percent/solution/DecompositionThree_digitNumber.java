@@ -1,8 +1,9 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
-* Розклад трицифрового числа ___%
-* https://www.e-olymp.com/uk/problems/935
-*/
+ * Розклад трицифрового числа 100%
+ * https://www.e-olymp.com/uk/problems/935
+ */
+
 import java.util.Scanner;
 
 public class DecompositionThree_digitNumber {

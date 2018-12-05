@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Пора року ___%
+ * Пора року 100%
  * https://www.e-olymp.com/uk/problems/923
  */
 

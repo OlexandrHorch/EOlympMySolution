@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Сума цифр двоцифрового числа 50%
+ * Сума цифр двоцифрового числа 100%
  * https://www.e-olymp.com/uk/problems/933
  */
 

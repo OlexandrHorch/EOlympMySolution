@@ -1,6 +1,6 @@
-package _76_to_99_percent_solution;
+package _100.percent.solution;
 /*
- * Відношення добутку до суми 90%
+ * Відношення добутку до суми 100%
  * https://www.e-olymp.com/uk/problems/931
  */
 
