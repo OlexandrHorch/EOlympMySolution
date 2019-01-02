@@ -1,5 +1,9 @@
 package in.stage.of.resolution;
 /*
+*
+* https://www.e-olymp.com/uk/problems/568
+*/
+/*
 Середня зарплата ___%
 https://www.e-olymp.com/uk/problems/568
 */

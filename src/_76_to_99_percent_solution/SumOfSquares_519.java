@@ -6,14 +6,14 @@ https://www.e-olymp.com/uk/problems/519
 
 import java.util.Scanner;
 
-public class SumOfSquares {
+public class SumOfSquares_519 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();
         int b = input.nextInt();
 
-        int A = (int) Math.pow(a, 2);
-        int B = (int) Math.pow(b, 2);
+        long A = (long) Math.pow(a, 2);
+        long B = (long) Math.pow(b, 2);
 
         System.out.println(A + B);
     }

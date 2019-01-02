@@ -6,7 +6,7 @@ package in.stage.of.resolution;
 
 import java.util.Scanner;
 
-public class NegativeElements {
+public class NegativeElements_921 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int size = input.nextInt();
@@ -14,7 +14,6 @@ public class NegativeElements {
 
         for (int i = 0; i < size; i++) {
             array[i] = input.nextDouble();
-            System.out.println(i + " = " + array[i]);
         }
 
         int numb = 0;
@@ -41,9 +40,6 @@ public class NegativeElements {
 
 Вихідні дані
 В єдиному рядку вивести кількість шуканих чисел та їх суму з точністю до двох десяткових знаків.
-
-Ліміт часу 1 секунд
-Ліміт використання пам'яті 128 MiB
 
 Вхідні дані #1
 5
