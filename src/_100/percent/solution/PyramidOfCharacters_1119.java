@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Піраміда з символів ___%
+ * Піраміда з символів 100%
  * https://www.e-olymp.com/uk/problems/1119
  */
 

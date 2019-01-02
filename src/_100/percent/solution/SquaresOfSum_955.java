@@ -1,4 +1,4 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
  * Квадрат суми 100%
  * https://www.e-olymp.com/uk/problems/955
@@ -6,7 +6,7 @@ package in.stage.of.resolution;
 
 import java.util.Scanner;
 
-public class SquaresOfSum {
+public class SquaresOfSum_955 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();

@@ -6,48 +6,27 @@
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/AmountLargestAndLeast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/DecompositionThree_digitNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/HeightsOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/MoveItemsToRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/NumberOfOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/NumberOfToys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/RatioProductToAmount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SumOfDigitsOfTwo_DigitNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/TransformationOfThree_digitNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/NegativeElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/PerimeterAndAreaOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/cache/Channel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/cache/ChannelsCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/cache/id" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/cache/jsonWithCache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/oneChannel/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/oneChannel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/oneChannel/ResponseSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/oneChannel/Snippet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/oneChannel/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/oneChannel/YouTubeAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/settings/AllSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/settings/MyFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/settings/MyFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/settings/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectRequests/src/main/java/settings/fileWithSettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/.idea/libraries/Maven__com_alibaba_fastjson_1_2_51.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/FinalProjectSettings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/lib/jfxrt.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/src/main/java/settings/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/src/main/java/settings/fileWithCash" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../FinalProjectSettings/src/main/java/settings/fileWithSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/ATM_138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Birthday_1159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Book_577.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Difference_941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Four_digitsWithoutMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/PyramidOfCharacters_1119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/ReverseOrder_947.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Sequence_575.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Share_951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SquareRoot_957.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum_955.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/StoneScissorsPaper_1215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SumOfExtreme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SupplySodaWater_542.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Two_DigitFromFour_Digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/WithoutMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_51_to_75_percent/solution/PowerOfCryptography_1205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/ProductArrayWithoutThemself_937.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/TheLeastCommonMultiple_1243.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/Wires_872.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/vcs.xml" afterDir="false" />
@@ -308,14 +287,23 @@
       <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_51_to_75_percent/solution/SumOfSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EOlympMySolution/_51_to_75_percent/solution/SumOfSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/in/stage/of/resolution/AverageSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EOlympMySolution/in/stage/of/resolution/AverageSalary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/in/stage/of/resolution/LicensedSoftware.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/in/stage/of/resolution/NumberOfOperations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_51_to_75_percent/solution/SumOfSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_51_to_75_percent/solution/SumOfSquares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/Empty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/Empty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/NumberOfOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_100/percent/solution/Balloons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_51_to_75_percent/solution/SumOfSquares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_51_to_75_percent/solution/WhatQuarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_76_to_99_percent_solution/NumbersOfWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_76_to_99_percent_solution/Yo_Yo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/in/stage/of/resolution/AverageSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/Balloons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/Balloons_113.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/DecompositionThree_digitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/DecompositionThree_digitNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum_939.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/TransformationOfThree_digitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/TransformationOfThree_digitNumber_943.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_51_to_75_percent/solution/SumOfSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/SumOfSquares_519.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_51_to_75_percent/solution/WhatQuarter_918.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords_909.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_76_to_99_percent_solution/Yo_Yo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/Yo_Yo_421.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary_568.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/Circle_924.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/NegativeElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/NegativeElements_921.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -328,62 +316,13 @@
     <option name="hideWarnings" value="true" />
     <option name="HIDE_WARNINGS" value="true" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1599680506">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="37" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="7" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.3" value="10" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.59" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.67" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="38" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="308" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="311" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="17" />
-          <entry key="java" value="18681" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="18799" />
-          <entry key="PLAIN_TEXT" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/DecompositionThree_digitNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/TheLeastCommonMultiple_1243.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="289">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -403,61 +342,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/PumpkinPorridge.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/FirstOrLast.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ArithmeticAvarageFromPositive.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ArithmeticAverageFromPositive.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/ArithmeticAverageFromPositive.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/NumbersOfWords.java" />
-        <option value="$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/WhatQuarter.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/DoubleMinimum.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/DoubleMinimum.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ModuleOfMaximum.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/DividedIntoSix.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/FirstNoMore2_5.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ProductOfDigits.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/DividedIntoSix.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/NumberOnTree.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/RightangledOrNot.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/WhatTriangle.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/EnlargeBy2.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/LicensedSoftware.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Season.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SumOf.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/MoveItemsToRight.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/NegativeElements.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/RatioProductToAmount.java" />
-        <option value="$PROJECT_DIR$/src/_76_to_99_percent_solution/RatioProductToAmount.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/RatioProductToAmount.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/AmountLargestAndLeast.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/PerimeteAndAreaOfTriangle.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/HeightsOfTriangle.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/HeightsOfTriangle.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/NumberOfToys.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/NumberOfToys.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SumOfSquares_939.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/PerimeterAndAreaOfTriangle.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SquaresOfSum.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum.java" />
-        <option value="$PROJECT_DIR$/src/_51_to_75_percent/solution/SumOfSquares.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/TransformationOfThree_digitDigits.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/TransformationOfThree_digitNumber.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/NumberOfOperations.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SplitString.java" />
-        <option value="$PROJECT_DIR$/../../TEST/Theory/src/main/java/SplitString.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/NumberOfOperations.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Empty.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Circle.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SumOfDigitsOfTwo_DigitNumber.java" />
-        <option value="$PROJECT_DIR$/src/_100/percent/solution/SumOfDigitsOfTwo_DigitNumber.java" />
-        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/DecompositionThree_digitNumber.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Two_DigitFromFour_Digit.java" />
         <option value="$PROJECT_DIR$/src/_100/percent/solution/DecompositionThree_digitNumber.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SumOfExtreme.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Four_digitsWithoutMiddle.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/Two_DigitFromFour_Digit.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/SumOfExtreme.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/Four_digitsWithoutMiddle.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SquaresOfSum.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SquaresOfSum_955.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum_955.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum_939.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Share.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Share_951.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/Share_951.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SquareRoot_957.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/SquareRoot_957.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Difference_941.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/NegativeElements_921.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/NegativeElements_921.java" />
+        <option value="$PROJECT_DIR$/src/_51_to_75_percent/solution/WhatQuarter.java" />
+        <option value="$PROJECT_DIR$/src/_51_to_75_percent/solution/WhatQuarter_918.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/WhatQuarter_918.java" />
+        <option value="$PROJECT_DIR$/src/_51_to_75_percent/solution/SumOfSquares.java" />
+        <option value="$PROJECT_DIR$/src/_51_to_75_percent/solution/SumOfSquares_519.java" />
+        <option value="$PROJECT_DIR$/src/_76_to_99_percent_solution/SumOfSquares_519.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary_568.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/TransformationOfThree_digitNumber_943.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ReverseOrder_947.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ProductArrayWithoutThemself_937.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Circle.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Circle_924.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/Circle_924.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/PyramidOfCharacters_1119.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/PyramidOfCharacters_1119.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Birthday_1159.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Number.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Castle_1113.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/PowerOfCryptography_1205.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/StoneScissorsPaper_1215.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/StoneScissorsPaper_1215.java" />
+        <option value="$PROJECT_DIR$/src/_76_to_99_percent_solution/Yo_Yo_421.java" />
+        <option value="$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords.java" />
+        <option value="$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords_909.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/ATM.java" />
+        <option value="$PROJECT_DIR$/src/_100/percent/solution/Balloons_113.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Book_577.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Sequence_575.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/Wires_872.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/SupplySodaWater_542.java" />
+        <option value="$PROJECT_DIR$/src/in/stage/of/resolution/TheLeastCommonMultiple_1243.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -471,7 +410,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -494,11 +433,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543990418034" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545858469005" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
@@ -507,6 +446,7 @@
       <recent name="PumpkinPorridge" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="in.stage.of.resolution" />
       <recent name="_100_percent_solution.PumpkinPorridge" />
       <recent name="Solution_100.PumpkinPorridge" />
     </key>
@@ -523,9 +463,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecompositionThree_digitNumber">
-    <configuration name="DecompositionThree_digitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.DecompositionThree_digitNumber" />
+  <component name="RunManager" selected="Application.TheLeastCommonMultiple_1243">
+    <configuration name="ATM_138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.ATM_138" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
@@ -537,21 +477,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.NumberOfOperations" />
-      <module name="EOlympMySolution" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDigitsOfTwo_DigitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.SumOfDigitsOfTwo_DigitNumber" />
+    <configuration name="Book_577" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.Book_577" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
@@ -563,12 +490,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_51_to_75_percent.solution.SumOfSquares" />
+    <configuration name="Sequence_575" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.Sequence_575" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_51_to_75_percent.solution.*" />
+          <option name="PATTERN" value="_100.percent.solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -576,12 +503,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransformationOfThree_digitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.TransformationOfThree_digitNumber" />
+    <configuration name="SupplySodaWater_542" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_100.percent.solution.SupplySodaWater_542" />
       <module name="EOlympMySolution" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_100.percent.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheLeastCommonMultiple_1243" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.stage.of.resolution.TheLeastCommonMultiple_1243" />
+      <module name="EOlympMySolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.stage.of.resolution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -590,19 +530,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SumOfDigitsOfTwo_DigitNumber" />
-      <item itemvalue="Application.SumOfSquares" />
-      <item itemvalue="Application.TransformationOfThree_digitNumber" />
-      <item itemvalue="Application.NumberOfOperations" />
-      <item itemvalue="Application.DecompositionThree_digitNumber" />
+      <item itemvalue="Application.ATM_138" />
+      <item itemvalue="Application.Book_577" />
+      <item itemvalue="Application.Sequence_575" />
+      <item itemvalue="Application.SupplySodaWater_542" />
+      <item itemvalue="Application.TheLeastCommonMultiple_1243" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecompositionThree_digitNumber" />
-        <item itemvalue="Application.SumOfDigitsOfTwo_DigitNumber" />
-        <item itemvalue="Application.NumberOfOperations" />
-        <item itemvalue="Application.TransformationOfThree_digitNumber" />
-        <item itemvalue="Application.SumOfSquares" />
+        <item itemvalue="Application.TheLeastCommonMultiple_1243" />
+        <item itemvalue="Application.SupplySodaWater_542" />
+        <item itemvalue="Application.Sequence_575" />
+        <item itemvalue="Application.Book_577" />
+        <item itemvalue="Application.ATM_138" />
       </list>
     </recent_temporary>
   </component>
@@ -632,7 +572,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19969743" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20278184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -641,13 +581,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44444445" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42902207" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3280757" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -658,225 +598,10 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Pie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_51_to_75_percent/solution/Discounts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/ProgressInArtilleryBegins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/TwoCircles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Preparation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/YoungGardener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/LevelEducationalAchievements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/PumpkinPorridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/FieldOfWonders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/FirstOrLast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_51_to_75_percent/solution/WhatQuarter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/MaximumSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SumSquaresNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Repair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Squares_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/DoubleMinimum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_26_to_50_percent_solution/FirstNoMore2_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/WhatTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/EnlargeBy2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/NumberOnTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/RightangledOrNot.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/ProductOfDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Transformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_1_to_25_percent_solution/LicensedSoftware.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/DividedIntoSix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/ArithmeticAverageFromPositive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SumOfTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Season.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/AmountLargestAndLeast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -919,45 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_51_to_75_percent/solution/SumOfSquares.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/TransformationOfThree_digitNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../TEST/Theory/src/main/java/SplitString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/NumberOfOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -968,20 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/NegativeElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1006,10 +682,274 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/WithoutMiddle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/DecompositionThree_digitNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="272">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SumOfExtreme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Four_digitsWithoutMiddle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Two_DigitFromFour_Digit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum_939.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum_955.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Squares_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SquareRoot_957.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Difference_941.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/NegativeElements_921.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/SumOfSquares_519.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/WhatQuarter_918.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary_568.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#345#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/TransformationOfThree_digitNumber_943.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Share_951.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/ReverseOrder_947.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Circle_924.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_26_to_50_percent_solution/FirstNoMore2_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_26_to_50_percent_solution/MilkAndCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_26_to_50_percent_solution/SumAtSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/PyramidOfCharacters_1119.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/NumberOnTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/Number.java" />
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Birthday_1159.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_51_to_75_percent/solution/PowerOfCryptography_1205.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/StoneScissorsPaper_1215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/ProgressInArtilleryBegins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/ProductArrayWithoutThemself_937.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/Yo_Yo_421.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords_909.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/NumberOfOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/ATM_138.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Balloons_113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="53" column="117" selection-start-line="53" selection-start-column="117" selection-end-line="53" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Book_577.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/Sequence_575.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/Wires_872.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/SupplySodaWater_542.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/TheLeastCommonMultiple_1243.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>

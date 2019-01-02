@@ -25,11 +25,11 @@ public class DecompositionThree_digitNumber {
         int numberDuplicate2 = numberModule;
         int[] numeralArray = new int[quantityNumeralInNumber];
         int numberDivided2;
-        int index = quantityNumeralInNumber;
+        int index = quantityNumeralInNumber - 1;
         for (; numberDuplicate2 > 0; numberDuplicate2 /= 10) {
             numberDivided2 = numberDuplicate2 % 10;
-            index -= 1;
             numeralArray[index] = numberDivided2;
+            index--;
         }
 
         // Вивід масива в консоль

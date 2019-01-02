@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Без середньої ___%
+ * Без середньої 100%
  * https://www.e-olymp.com/uk/problems/945
  */
 
@@ -14,16 +14,15 @@ public class WithoutMiddle {
         // Перетворення числа в масив цифр
         int numberDuplicate = number;
         int[] numeralArray = new int[3];
-        int numberDivided2;
-        int index = 3;
+        int numberDivided;
+        int index = 2;
         for (; numberDuplicate > 0; numberDuplicate /= 10) {
-            numberDivided2 = numberDuplicate % 10;
+            numberDivided = numberDuplicate % 10;
+            numeralArray[index] = numberDivided;
             index--;
-            numeralArray[index] = numberDivided2;
         }
 
         int result = numeralArray[0] * 10 + numeralArray[2];
-
         System.out.println(result);
     }
 }

@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Послідовність ___%
+ * Послідовність 100%
  * https://www.e-olymp.com/uk/problems/575
  */
 

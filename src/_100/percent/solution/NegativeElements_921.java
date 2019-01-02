@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Від`ємні елементи ___%
+ * Від`ємні елементи 100%
  * https://www.e-olymp.com/uk/problems/921
  */
 

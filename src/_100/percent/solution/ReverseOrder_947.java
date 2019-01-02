@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Зворотній порядок 90%
+ * Зворотній порядок 100%
  * https://www.e-olymp.com/uk/problems/947
  */
 
@@ -20,12 +20,10 @@ public class ReverseOrder_947 {
             i--;
         }
         String result = Integer.toString(numeralArray[2]) + Integer.toString(numeralArray[1]) + Integer.toString(numeralArray[0]);
-//        int result = numeralArray[2] * 100 + numeralArray[1] * 10 + numeralArray[0];
         System.out.println(result);
     }
 }
 
-// 100    001
 /*
 Зворотній порядок
 Записати дане трицифрове натуральне число в зворотному порядку.

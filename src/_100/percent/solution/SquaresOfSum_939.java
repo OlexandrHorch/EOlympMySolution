@@ -6,7 +6,7 @@ package _100.percent.solution;
 
 import java.util.Scanner;
 
-public class SquaresOfSum {
+public class SquaresOfSum_939 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int digit = input.nextInt();

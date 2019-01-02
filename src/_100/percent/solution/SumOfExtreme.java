@@ -1,4 +1,4 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
  * Сума крайніх 100%
  * https://www.e-olymp.com/uk/problems/959

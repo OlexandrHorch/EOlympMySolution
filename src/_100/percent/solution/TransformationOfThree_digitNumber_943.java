@@ -6,7 +6,7 @@ package _100.percent.solution;
 
 import java.util.Scanner;
 
-public class TransformationOfThree_digitNumber {
+public class TransformationOfThree_digitNumber_943 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();

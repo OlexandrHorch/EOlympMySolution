@@ -1,4 +1,4 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
  * Обмін 100%
  * https://www.e-olymp.com/uk/problems/951
@@ -6,7 +6,7 @@ package in.stage.of.resolution;
 
 import java.util.Scanner;
 
-public class Share {
+public class Share_951 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();

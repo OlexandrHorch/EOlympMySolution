@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * День народження ___%
+ * День народження 100%
  * https://www.e-olymp.com/uk/problems/1159
  */
 

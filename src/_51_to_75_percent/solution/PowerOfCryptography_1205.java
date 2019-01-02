@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _51_to_75_percent.solution;
 /*
- * Сила криптографії ___%
+ * Сила криптографії 60%
  * https://www.e-olymp.com/uk/problems/1205
  */
 
@@ -12,8 +12,8 @@ public class PowerOfCryptography_1205 {
         int n = input.nextInt();
         long p = input.nextInt();
 
-        int z = (int) Math.pow(p, 1.0 / n);
-        System.out.print(z);
+        int k = (int) Math.pow(p, 1.0 / n);
+        System.out.print(k);
     }
 }
 

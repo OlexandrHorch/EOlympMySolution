@@ -1,6 +1,6 @@
-package _51_to_75_percent.solution;
+package _76_to_99_percent_solution;
 /*
-Сума квадратів 73%
+Сума квадратів 91%
 https://www.e-olymp.com/uk/problems/519
 */
 

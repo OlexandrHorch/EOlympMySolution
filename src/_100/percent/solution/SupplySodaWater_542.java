@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Поставка содової води ___%
+ * Поставка содової води 100%
  * https://www.e-olymp.com/uk/problems/542
  */
 
@@ -55,37 +55,4 @@ c (1 < c < 2000) - кількість порожніх пляшок, необх�
 5 5 2
 Вихідні дані #2
 9
-*/
-
-
-/*
-import java.util.Scanner;
-
-public class SupplySodaWater_542 {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        int bottles = input.nextInt();
-        int newBottles = input.nextInt();
-        int bottlesForBuy = input.nextInt();
-
-        int bottlesForDrink = 0;
-        int sumBottlesForDrink = 0;
-
-        while (( bottles + newBottles ) >= bottlesForBuy) {
-            newBottles = bottles + newBottles + bottlesForDrink;
-            bottles = 0;
-            System.out.println("bottles = " + bottles + "\t | newBottles = " + newBottles + "\t | bottlesForBuy = " + bottlesForBuy);
-            bottlesForDrink = (newBottles + bottlesForDrink) / bottlesForBuy;
-
-            sumBottlesForDrink += newBottles / bottlesForBuy;
-            System.out.println("newBottles = " + newBottles + "\t | bottlesForDrink = " + bottlesForDrink + "\t | sumBottlesForDrink = " + sumBottlesForDrink);
-
-            newBottles = bottlesForDrink + (newBottles % bottlesForBuy);
-            bottlesForDrink = 0;
-            System.out.println("newBottles = " + newBottles + "\n******************************************************************************\n");
-        }
-
-        System.out.println(sumBottlesForDrink);
-    }
-}
 */

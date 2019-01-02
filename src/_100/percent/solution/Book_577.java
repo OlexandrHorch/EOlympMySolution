@@ -1,6 +1,6 @@
-package in.stage.of.resolution;
+package _100.percent.solution;
 /*
- * Книга ___%
+ * Книга 100%
  * https://www.e-olymp.com/uk/problems/577
  */
 

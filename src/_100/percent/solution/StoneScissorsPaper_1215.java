@@ -1,5 +1,8 @@
-package in.stage.of.resolution;
-
+package _100.percent.solution;
+/*
+* Камінь, Ножиці чи Папір? 100%
+* https://www.e-olymp.com/uk/problems/1215
+*/
 import java.util.Scanner;
 
 public class StoneScissorsPaper_1215 {
@@ -18,6 +21,7 @@ public class StoneScissorsPaper_1215 {
 
         for (int i = 0; i < numberTests; i++) {
             int resultCalc = 0;
+
             for (int r = 0; r < 100; r++) {
                 if (tests[i][r][0] != null) {
                     if (tests[i][r][0].equals("R") && tests[i][r][1].equals("S")) {
@@ -35,7 +39,6 @@ public class StoneScissorsPaper_1215 {
                     }
                 }
             }
-
 
             if (resultCalc > 0) {
                 System.out.println("Player 1");
