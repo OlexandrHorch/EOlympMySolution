@@ -2,308 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b67bea7f-be6d-46f9-a6d7-ed9db59ecdaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/EOlympMy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/ATM_138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Birthday_1159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Book_577.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Difference_941.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Four_digitsWithoutMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/PyramidOfCharacters_1119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/ReverseOrder_947.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Sequence_575.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Share_951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SquareRoot_957.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum_955.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/StoneScissorsPaper_1215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SumOfExtreme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/SupplySodaWater_542.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/Two_DigitFromFour_Digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_100/percent/solution/WithoutMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_51_to_75_percent/solution/PowerOfCryptography_1205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/ProductArrayWithoutThemself_937.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/TheLeastCommonMultiple_1243.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/Wires_872.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule2HomeWork2/GoJavaModule2HomeWork2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule3HomeWork3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule3HomeWork3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule3HomeWork3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule4HomeWork4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule4HomeWork4/src/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule4HomeWork4/src/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule4HomeWork4/src/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule4HomeWork4/src/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule4HomeWork4/src/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule4HomeWork4/src/Task06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule4HomeWork4/src/Task07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(1)/GoJavaModule5HomeWork5(1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(2)/GoJavaModule5HomeWork5(2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/GoJavaModule5HomeWork5(3).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/src/Chamomile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/src/FlowerStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/src/Flowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/src/FlowersLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/src/Rose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5(3)/src/Tulip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/GoJavaModule5HomeWork5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/src/NewCar/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/src/NewCar/CarDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/src/NewCar/CarWheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule5HomeWork5/src/NewCar/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/GoJavaModule6HomeWork6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/src/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/src/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/src/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/src/ShowTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/src/myLinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule6HomeWork6/src/myLinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/.idea/GoJavaModule7HomeWork7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/.idea/libraries/Maven__com_alibaba_fastjson_1_2_51.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/files/MyFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/files/MyFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/files/deliveryFirst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/files/deliverySecond" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule7HomeWork7/src/main/java/files/storage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(1)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(1)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(1)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(1)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(1)/GoJavaModule8HomeWork8(1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(1)/src/LibraryOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(1)/src/LibraryTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/GoJavaModule8HomeWork8(2).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/src/SecondTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/src/SecondTask_21_38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/src/SecondTask__.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/src/firstTask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule8HomeWork8(2)/src/firstTask/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/GoJavaModule9HomeWork9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/lib/jfxrt.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/src/main/java/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/src/main/java/ResponseSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/src/main/java/Snippet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../HomeWorks/GoJavaModule9HomeWork9/src/main/java/YouTubeAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/Lesson03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/src/Cycles/СycleFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/src/Operators/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/Average.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/Olympiade.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/Salary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/TwoNumbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/MinimumSumNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/Transformation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/Lesson11_11.09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/src/JavaFxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/Lesson14_21.09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/SimpleDeposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/BankRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/CompoundPercentDeposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/Deposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/GoldClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/RegularClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/SimplePercentDeposit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/VipClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/Lesson15_25.09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/Lesson16_28.09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/src/School/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/src/School/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/src/School/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/Task01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/Task02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/Task03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task04/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task05/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/Task06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/Task07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module4/src/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module4/src/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice/Module4/src/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/.idea/TEST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/AnimalsTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/dogs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/Lesson9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_100/percent/solution/Balloons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_51_to_75_percent/solution/SumOfSquares.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_51_to_75_percent/solution/WhatQuarter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_76_to_99_percent_solution/NumbersOfWords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/_76_to_99_percent_solution/Yo_Yo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EOlympMySolution/in/stage/of/resolution/AverageSalary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/Balloons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/Balloons_113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/DecompositionThree_digitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/DecompositionThree_digitNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/SquaresOfSum_939.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_100/percent/solution/TransformationOfThree_digitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/TransformationOfThree_digitNumber_943.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_51_to_75_percent/solution/SumOfSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/SumOfSquares_519.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_51_to_75_percent/solution/WhatQuarter_918.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/NumbersOfWords_909.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_76_to_99_percent_solution/Yo_Yo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_76_to_99_percent_solution/Yo_Yo_421.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/in/stage/of/resolution/AverageSalary_568.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/Circle_924.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/in/stage/of/resolution/NegativeElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100/percent/solution/NegativeElements_921.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -317,17 +17,7 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/TheLeastCommonMultiple_1243.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -396,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -423,12 +113,6 @@
               <item name="EOlympMySolution" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="EOlympMySolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EOlympMySolution" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="resolution" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -438,8 +122,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545858469005" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaDeveloperFinalProject20190330" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -570,15 +254,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20278184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2118003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" />
+      <window_info id="Project Explorer" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42902207" />
@@ -590,6 +276,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3280757" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="bottom" id="Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -600,6 +288,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Maven" order="8" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/_100/percent/solution/AmountLargestAndLeast.java">
@@ -949,7 +642,7 @@
     <entry file="file://$PROJECT_DIR$/src/in/stage/of/resolution/TheLeastCommonMultiple_1243.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
